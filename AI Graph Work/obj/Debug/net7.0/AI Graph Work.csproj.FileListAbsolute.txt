@@ -1,0 +1,15 @@
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\bin\Debug\net7.0\AI Graph Work.exe
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\bin\Debug\net7.0\AI Graph Work.deps.json
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\bin\Debug\net7.0\AI Graph Work.runtimeconfig.json
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\bin\Debug\net7.0\AI Graph Work.dll
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\bin\Debug\net7.0\AI Graph Work.pdb
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.csproj.AssemblyReference.cache
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.AssemblyInfoInputs.cache
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.AssemblyInfo.cs
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.csproj.CoreCompileInputs.cache
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.dll
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\refint\AI Graph Work.dll
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.pdb
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\AI Graph Work.genruntimeconfig.cache
+C:\Users\João Antunes\Documents\GitHub\AI-Class-in-IPCA\AI Graph Work\obj\Debug\net7.0\ref\AI Graph Work.dll
