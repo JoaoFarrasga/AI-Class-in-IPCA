@@ -35,6 +35,14 @@ class Grapho
     {
         bool[] visitados = new bool[graphsAdjacentes.Count];
         BFSCheck(nodeInicial, visitados);
+
+        for (int i = 0; i < visitados.Length; i++)
+        {
+            if (!visitados[i])
+            {
+                BFSCheck(i, visitados);
+            }
+        }
     }
 
     public void BFSCheck(int nodeInicial, bool[] visitados)
